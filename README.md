@@ -12,7 +12,8 @@
 
 <p align="center">
   <a href="https://eryyynit.github.io">Website &amp; resume</a> ·
-  <a href="https://www.fl.ru/users/barkalovmisha/">Freelance</a>
+  <a href="https://www.fl.ru/users/barkalovmisha/">FL.ru</a> ·
+  <a href="https://freelance.ru/michaelbarkalov">Freelance.ru</a>
 </p>
 
 I write backend services, Telegram bots and developer tools. This is also where I work on my own projects and learn by building things.
@@ -50,4 +51,4 @@ Both projects below were built as test assignments for developer positions.
 
 ---
 
-I'm open to backend roles and freelance projects. My [website](https://eryyynit.github.io) has my resume and contact details; you can also reach me on [FL.ru](https://www.fl.ru/users/barkalovmisha/).
+I'm open to backend roles and freelance projects. My [website](https://eryyynit.github.io) has my resume and contact details; you can also reach me on [FL.ru](https://www.fl.ru/users/barkalovmisha/) and [freelance.ru](https://freelance.ru/michaelbarkalov).
